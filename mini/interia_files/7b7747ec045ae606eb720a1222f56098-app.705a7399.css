@@ -1,0 +1,10 @@
+
+.wz-halfpage{
+    grid-row:span 2;
+    grid-column:-2;
+    justify-items:center;
+    align-content:center;
+    width:100%;
+    overflow:unset;
+    height:100%
+}

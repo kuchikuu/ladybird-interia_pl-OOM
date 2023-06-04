@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34.3" height="34" viewBox="0 0 34.3 34">
+  <g id="wnętrza" transform="translate(-365.269 -360.423)">
+    <rect id="Rectangle_420-9" data-name="Rectangle 420-9" width="34" height="34" transform="translate(365.569 360.423)" fill="rgba(197,5,60,0)"/>
+    <g id="Group_3771" data-name="Group 3771" transform="translate(365.069 360.423)">
+      <g id="home_renovation" data-name="home renovation">
+        <g id="Group_3768" data-name="Group 3768">
+          <path id="Path_8822" data-name="Path 8822" d="M24.057,16.594h1.625V13.751L13.767,4.615a1.214,1.214,0,0,0-1.353,0L.5,13.751v2.843H2.125V28.778a.815.815,0,0,0,.812.813H13.091" fill="none" stroke="#9900d9" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+          <path id="Path_8823" data-name="Path 8823" d="M19.183,6.44V4.815h4.874V9.689" fill="none" stroke="#9900d9" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+        </g>
+      </g>
+      <path id="Path_8824" data-name="Path 8824" d="M15.731,25.529v-6.5h-5.28v8.935" fill="none" stroke="#9900d9" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+      <g id="design">
+        <g id="Group_3769" data-name="Group 3769">
+          <path id="Path_8825" data-name="Path 8825" d="M31.524,10.363l-1.977,4.728V28.448a1.137,1.137,0,0,0,1.137,1.137h1.679A1.137,1.137,0,0,0,33.5,28.448V15.091Z" fill="none" stroke="#9900d9" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+          <path id="Path_8826" data-name="Path 8826" d="M33.5,15.42" fill="none" stroke="#9900d9" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+          <line id="Line_246" data-name="Line 246" x2="0.659" transform="translate(31.194 11.467)" fill="none" stroke="#9900d9" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+          <line id="Line_247" data-name="Line 247" y2="11.53" transform="translate(31.524 15.42)" fill="none" stroke="#9900d9" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+        </g>
+        <g id="Group_3770" data-name="Group 3770">
+          <path id="Path_8827" data-name="Path 8827" d="M27.447,22.668l-3.171-3.624L15.053,29.585H27.57" fill="none" stroke="#9900d9" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+          <path id="Path_8828" data-name="Path 8828" d="M24.276,23.373,21.147,26.95h6.259Z" fill="none" stroke="#9900d9" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+        </g>
+      </g>
+      <g id="Group_3772" data-name="Group 3772" transform="translate(-15 -14.554)">
+        <line id="Line_248" data-name="Line 248" x1="0.126" y1="0.126" transform="translate(17.665 18.001)" fill="none" stroke="#9900d9" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+        <line id="Line_249" data-name="Line 249" x1="0.126" y1="0.126" transform="translate(19.464 19.8)" fill="none" stroke="#9900d9" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+        <line id="Line_250" data-name="Line 250" x1="0.126" y2="0.126" transform="translate(17.665 19.8)" fill="none" stroke="#9900d9" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+        <line id="Line_251" data-name="Line 251" x1="0.126" y2="0.126" transform="translate(19.464 18.001)" fill="none" stroke="#9900d9" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+      </g>
+    </g>
+  </g>
+</svg>

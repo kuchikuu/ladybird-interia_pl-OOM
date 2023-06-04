@@ -1,0 +1,8 @@
+/*!
+ * 
+ *         inpl.uanc - Universal asynhronous advertisement service
+ *         Version: 1.3.93
+ *         License(s): ISC
+ *     
+ */
+(window.webpackJsonpinpl_uanc=window.webpackJsonpinpl_uanc||[]).push([[12,22],{116:function(n,o,t){"use strict";t.r(o),t.d(o,"processRodoKeyword",(function(){return i}));t(3),t(4),t(13);var e=t(7),r=t(72),s=t(2),i=function(){var n=window.Inpl.Ad,o=s.a.isDefined,t=s.a.isObject,i=e.m.RODO_KEYWORD,d=n.UANC;d.level=3,d.log("RodoKeyword","run process"),o(n.plugins)||t(n.plugins)||(n.plugins={});var u=new r.default;return new Promise((function(o,t){u.init().then((function(t){n.plugins.RodoKeyword=Object.assign({},n.plugins.RodoKeyword,u),d.log(i,"keywords",t),o(i)})).catch((function(n){return t(n)}))}))}},72:function(n,o,t){"use strict";t.r(o),t.d(o,"default",(function(){return i}));t(3),t(4);var e=t(2),r=window,s=e.a.isNull,i=function(){function n(){this.keywords="4"}return n.prototype.init=function(){var n=this;return new Promise((function(o,t){try{var e=r.rodoAPI,i={5:"4",6:"1",7:"4",8:"2",9:"3"};s(e)&&o(n.keywords),0==e.getStatus()?(n.keywords="4",e.onHide((function(){0!=e.getStatus()&&(n.keywords=e.getStatus(),i[n.keywords]&&(n.keywords=i[n.keywords])),o(n.keywords)}))):n.keywords=e.getStatus(),i[n.keywords]&&(n.keywords=i[n.keywords]),0!=e.getStatus()&&o(n.keywords),window.iwa3&&iwa3("trackEvent","rodo","status","".concat(window.Inpl.Ad.host),"".concat(n.keywords))}catch(n){t(n)}}))},n}()}}]);

@@ -1,0 +1,10 @@
+.section-content,.wz-section{
+    display:grid;
+
+	justify-content:space-between
+}
+.content-main,.content-main-wideo{
+    display:grid;
+
+    justify-content:space-between
+}

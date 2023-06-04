@@ -1,0 +1,23 @@
+/* 7b7747ec045ae606eb720a1222f56098-layout.798b93e9.css */
+.section-content,.wz-section{
+    display:grid;
+
+	justify-content:space-between
+}
+.content-main,.content-main-wideo{
+    display:grid;
+
+    justify-content:space-between
+}
+
+
+/* 7b7747ec045ae606eb720a1222f56098-app.705a7399.css */
+.wz-halfpage{
+    grid-row:span 2;
+    grid-column:-2;
+    justify-items:center;
+    align-content:center;
+    width:100%;
+    overflow:unset;
+    height:100%
+}
